@@ -1,0 +1,25 @@
+.landing {
+	margin: 5%;
+	background-color: #F2F2F2;
+}
+
+.landingElements{
+	padding: 2px;
+}
+
+.btn, .ending{
+	background-color: #009E94;
+	color: white;
+}
+
+.features, .moreProducts, .design, .links, .ending, .footer{
+	margin: 2%;
+	padding: 1px;
+}
+
+*{
+	text-align: center;
+	font-family: Arial;
+}
+
+
